@@ -1,11 +1,11 @@
 <h1 align="center">Rodrigo Roda 🚀</h1>
-<p align="center">Estudante de Informática | Dev Backend | Apaixonado por Programação</p>
+<p align="center">Desenvolvedor em formação | Técnico em Informática | Apaixonado por Programação</p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Sou Rodrigo, estudante do ensino médio técnico em Informática. Estagio como dev backend usando **PHP**, com foco em **APIs REST** e **RPAs**.
+Oi! Meu nome é Rodrigo, tenho 17 anos e estou no último ano do ensino médio técnico em Informática. Estagio como dev backend usando **PHP**, com foco em **APIs REST** e **RPAs**.
 
 Tenho interesse por **engenharia de software**, **inteligência artificial**, **dados** e **projetos reais** — especialmente aplicados à **automação** e **desenvolvimento web**. Planejo estudar e me formar com ensino
 superior na área, além de me especializar em tecnologias modernas.
@@ -45,6 +45,9 @@ Controle de falhas, clima, hora e desempenho do voo, com mapa em tempo real e in
 🛠 Em progresso: módulo de **FMC digital** (Flight Management Computer)
 
 ---
+
+### 💼 Trabalho Atual
+Atualmente, trabalho como Estagiário Backend na DataCube. Sempre aprendendo e melhorando cada vez mais!
 
 ### 📫 Contato
 
