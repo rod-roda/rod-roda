@@ -47,7 +47,7 @@ Controle de falhas, clima, hora e desempenho do voo, com mapa em tempo real e in
 ---
 
 ### 💼 Trabalho Atual
-Atualmente, trabalho como Estagiário Backend na DataCube. Sempre aprendendo e melhorando cada vez mais!
+Atualmente, trabalho como Estagiário Backend na [@DataCube](https://github.com/DataCube). Sempre aprendendo e melhorando cada vez mais!
 
 ---
 
