@@ -49,6 +49,8 @@ Controle de falhas, clima, hora e desempenho do voo, com mapa em tempo real e in
 ### 💼 Trabalho Atual
 Atualmente, trabalho como Estagiário Backend na DataCube. Sempre aprendendo e melhorando cada vez mais!
 
+---
+
 ### 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/rodrigo-roda-432972309/) • rodrroda@gmail.com
