@@ -44,6 +44,10 @@ superior na área, além de me especializar em tecnologias modernas.
 Controle de falhas, clima, hora e desempenho do voo, com mapa em tempo real e integração via Sockets.  
 🛠 Em progresso: módulo de **FMC digital** (Flight Management Computer)
 
+**Mão Robótica com Reconhecimento de Gestos – Feira Técnica 2024**  
+Reconhecimento em tempo real de movimentos dos dedos via **OpenCV em Python**, integrando com **Arduino e servomotores** para controlar uma mão robótica impressa em 3D.  
+🎯 Sincronização precisa entre visão computacional e resposta mecânica.
+
 ---
 
 ### 💼 Trabalho Atual
