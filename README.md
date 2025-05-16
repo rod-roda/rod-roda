@@ -14,7 +14,7 @@ Tenho grande interesse em **engenharia de software**, **inteligência artificial
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-roda&layout=compact&card_width=600&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-roda&layout=compact&card_width=800&theme=dracula" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Information%20Technology-2196f3?style=for-the-badge"/>
