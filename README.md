@@ -7,10 +7,9 @@
 
 Oi! Meu nome é Rodrigo, tenho 17 anos e estou no último ano do ensino médio técnico em Informática. Estagio como dev backend usando **PHP**, com foco em **APIs REST** e **RPAs**.
 
-Tenho experiência com programação de **Softwares de integração** utilizando Windows Forms (C#) e C++, **Agentes de IA's e Automação** (n8n) e **Desenvolvimento Web** (PHP)
+Atualmente tenho experiência com programação de **Softwares de integração** utilizando Windows Forms (C#) e C++, **Agentes de IA's e Automação** (n8n) e **Desenvolvimento Web** (PHP)
 
-Me interesso muito por **engenharia de software**, **inteligência artificial**, **dados** e **projetos reais** — especialmente aplicados à **automação** e **desenvolvimento web**. Planejo estudar e me formar com ensino
-superior na área, além de me especializar em tecnologias modernas.
+Tenho grande interesse em **engenharia de software**, **inteligência artificial**, **ciência de dados** e em desenvolver **projetos práticos** — especialmente focados em **automação inteligente** e **soluções web**. Planejo me formar na área e me especializar em tecnologias modernas.
 
 ---
 
