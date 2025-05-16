@@ -7,13 +7,19 @@
 
 Oi! Meu nome é Rodrigo, tenho 17 anos e estou no último ano do ensino médio técnico em Informática. Estagio como dev backend usando **PHP**, com foco em **APIs REST** e **RPAs**.
 
-Tenho interesse por **engenharia de software**, **inteligência artificial**, **dados** e **projetos reais** — especialmente aplicados à **automação** e **desenvolvimento web**. Planejo estudar e me formar com ensino
+Tenho experiência com programação de **Softwares de integração** utilizando Windows Forms (C#) e C++, **Agentes de IA's e Automação** (n8n) e **Desenvolvimento Web** (PHP)
+
+Me interesso muito por **engenharia de software**, **inteligência artificial**, **dados** e **projetos reais** — especialmente aplicados à **automação** e **desenvolvimento web**. Planejo estudar e me formar com ensino
 superior na área, além de me especializar em tecnologias modernas.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-roda&layout=compact&theme=radical&hide=css" height="250px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-roda&layout=compact&card_width=600&theme=dracula" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-Information%20Technology-2196f3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Working-Web%20Development%20and%20Automation-0078D4?style=for-the-badge" />
 </p>
 
 ---
@@ -23,17 +29,25 @@ superior na área, além de me especializar em tecnologias modernas.
 <div style="display: inline_block"><br/>
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img align="center" alt="php" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img align="center" alt="php" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>   
+    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-FF2D55?style=for-the-badge&logo=n8n&logoColor=white"/>
+</div><br/>
+
+---
+
+### 🛠️ Proficiência em
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>   
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
 
 ---
@@ -51,14 +65,22 @@ Reconhecimento em tempo real de movimentos dos dedos via **OpenCV em Python**, i
 ---
 
 ### 💼 Trabalho Atual
-Atualmente, trabalho como Estagiário Backend na [@DataCube](https://github.com/DataCube). Sempre aprendendo e melhorando cada vez mais!
+
+Atualmente, estagio na [@DataCube](https://github.com/DataCube), onde aprendi a:
+
+- Criar automações para acessar e extrair dados da web  
+- Simular sessões e lidar com cookies e autenticação  
+- Construir crawlers eficientes para processos repetitivos  
+- Aplicar RPA de forma prática em sistemas reais
+
+Essas experiências vêm reforçando meu entendimento sobre automação web, lógica de requisições e integração de dados.
 
 ---
 
 ### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/rodrigo-roda-432972309/) • rodrroda@gmail.com
+[LinkedIn](https://www.linkedin.com/in/rodrigo-roda-432972309/) • rodrroda@gmail.com • [Instagram](https://www.instagram.com/rodrroda/)
 
 ---
 
-🧠 *Em constante evolução, assim como meus projetos.*
+🧩 *Resolver problemas é só o começo — quero reinventar soluções.*
