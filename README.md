@@ -1,5 +1,5 @@
 <h1 align="center">Rodrigo Roda 🚀</h1>
-<p align="center">Desenvolvedor em formação | Técnico em Informática | Estagiário em Softwares e RPA's</p>
+<p align="center">Desenvolvedor em formação | Técnico em Informática | Estagiário em Desenvolvimento WEB e RPA's</p>
 
 ---
 
