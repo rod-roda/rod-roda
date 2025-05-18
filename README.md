@@ -78,7 +78,7 @@ Essas experiências vêm reforçando meu entendimento sobre automação web, ló
 
 ### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/rodrigo-roda-432972309/) • rodrroda@gmail.com • [Instagram](https://www.instagram.com/rodrroda/)
+[LinkedIn](https://www.linkedin.com/in/rodrigo-roda-432972309/) • rodrroda@gmail.com
 
 ---
 
