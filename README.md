@@ -50,7 +50,6 @@ Tenho grande interesse em **engenharia de software**, **inteligência artificial
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" alt="fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-    <img align="center" alt="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div><br/>
 
 ---
