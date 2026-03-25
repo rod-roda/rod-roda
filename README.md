@@ -84,7 +84,7 @@ A full-stack platform focused on environmental awareness, featuring gamification
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/rodrigo-roda-432972309/) • rodrroda@gmail.com
+[LinkedIn](https://www.linkedin.com/in/rod-roda/) • rodrroda@gmail.com
 
 ---
 
