@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About me
 
-Hey! I'm Rodrigo, 18 years old, studying **Computer Science at UNIFESP** (Federal University of São Paulo). I graduated from my technical high school in Information Technology as the **top student of my class**.
+Hey! I'm Rodrigo, 18 years old, studying **Computer Science at UNIFESP** (Federal University of São Paulo). I graduated from my technical high school in Information Technology as the **top student of my technical course**.
 
 I work as a **Junior Developer at [@DataCube](https://github.com/DataCube)**, focusing on backend development in **PHP** — building REST APIs, web crawlers with **cURL**, and browser automations with **Puppeteer (JS)**. I also have strong experience with **AI Agents and Automation using n8n**.
 
